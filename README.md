@@ -27,3 +27,4 @@ This source code is licensed under the zlib license. Read the license details he
 ## Credits
 - by [Brendon Chung](http://blendogames.com)
 - FNA by [Ethan Lee](https://flibitijibibo.com)
+- Json.NET by [Newtonsoft](https://www.newtonsoft.com/json)
