@@ -17,7 +17,7 @@ This kit has simple implementations of:
 - saving/loading a settings file.
 
 ## Usage
-This kit is intended as a **starting point**, something very simple to get you up and running quickly. I like the FNA framework a lot -- it's cleanly-written, thoughtfully-designed, flexible -- and I hope this helps give you a foothold in using it.
+This kit is intended as a **starting point**, something very simple to get you up and running quickly. I like the [FNA framework](https://fna-xna.github.io) a lot -- it's cleanly-written, thoughtfully-designed, flexible -- and I hope this helps give you a foothold in using it.
 
 Note: for the content pipeline, I wrote a tool that may be helpful: [XNB Watcher](https://blendogames.itch.io/blendo-xnb-watcher).
 
