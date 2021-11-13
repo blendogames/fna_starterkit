@@ -19,6 +19,8 @@ This kit has simple implementations of:
 ## Usage
 This kit is intended as a **starting point**, some very simple scaffolding to get you up and running quickly. I like the [FNA framework](https://fna-xna.github.io) a lot -- it's cleanly-written, thoughtfully-designed, flexible -- and I hope this helps give you a foothold in using it.
 
+This is written in C# and a .sln solution for Visual Studio 2015 is provided.
+
 Note: for the content pipeline, I wrote a tool that may be helpful: [XNB Watcher](https://blendogames.itch.io/blendo-xnb-watcher).
 
 ## License
