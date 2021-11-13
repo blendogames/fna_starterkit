@@ -22,7 +22,7 @@ This is intended as a starter kit for making games with [FNA](https://fna-xna.gi
 Please note this kit is only intended as a **starting point**, something simple to get you up and running quickly. I like the FNA framework a lot, and I hope this helps you learn and use it.
 
 ## License
-This source code is licensed under the zlib license. Read the license details here: [LICENSE.md](https://github.com/blendogames/blendobuildmachine/blob/master/LICENSE.md)
+This source code is licensed under the zlib license. Read the license details here: [LICENSE.md](https://github.com/blendogames/fna_starterkit/blob/master/LICENSE.md)
 
 ## Credits
 - by [Brendon Chung](http://blendogames.com)
