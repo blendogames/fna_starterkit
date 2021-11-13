@@ -3,7 +3,7 @@
 ## About
 This is a basic starter kit for the [FNA game framework](https://fna-xna.github.io).
 
-Previous iterations of this code was used in parts of [Flotilla](https://blendogames.com/flotilla), [Atom Zombie Smasher](https://blendogames.com/atomzombiesmasher), [Air Forte](https://blendogames.com/airforte), [Planetfriend](https://lauramichet.itch.io/planetfriend), [Tall Bagel](https://lauramichet.itch.io/tallbagel), and [Tall Bagel 2](https://lauramichet.itch.io/tallbagel2).
+Previous iterations of this code was used in parts of [Flotilla](https://blendogames.com/flotilla), [Atom Zombie Smasher](https://blendogames.com/atomzombiesmasher), [Air Forte](https://blendogames.com/airforte), [Planetfriend](https://lauramichet.itch.io/planetfriend), [Acre 6](https://blendogames.itch.io/acre6), [Tall Bagel](https://lauramichet.itch.io/tallbagel), and [Tall Bagel 2](https://lauramichet.itch.io/tallbagel2).
 
 ## What does it do?
 This kit has simple implementations of:
