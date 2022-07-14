@@ -1,7 +1,7 @@
 # FNA Starter Kit
 
 ## About FNA
-[FNA](https://github.com/FNA-XNA/FNA) is a game framework made by [Ethan Lee](https://flibitijibibo.com). Read more about FNA [here.](https://fna-xna.github.io)
+[FNA](https://github.com/FNA-XNA/FNA) is a game framework made by [Ethan Lee](https://flibitijibibo.com). To read more about FNA, [click here.](https://fna-xna.github.io)
 
 # About this starter kit
 I made this starter kit for folks to use as basic scaffolding for their own FNA projects. I like FNA a lot -- it's cleanly-written, thoughtfully-designed, flexible -- and I hope this starter kit helps give you a foothold in using it.
